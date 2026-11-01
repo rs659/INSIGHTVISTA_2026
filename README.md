@@ -4,7 +4,6 @@
 
 ### Power BI Dashboard: Global Terrorism Analysis (1970--2017)
 
-**Date:** November 1, 2026\
 **Enrollment No.:** 240840116123
 
 ------------------------------------------------------------------------
